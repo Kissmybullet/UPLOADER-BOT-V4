@@ -22,15 +22,15 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string. @BotFather",
-      "value": "6356448609:AAE3ulQmroJgtolPfTB_DCc1uP1PPstnu0M"
+      "value": "6138161513:AAGei1NrWhBKKMRxSTUuMx1MOQYzWCk1Eag"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "13597855"
+      "value": "29467528"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "7629f2303dfb347eebe193f7950dfd10"
+      "value": "0bda31de4693f3413d868ebdeb087940"
     },
     "DATABASE_URL": {
       "description": "Your Mongodb Url",
@@ -38,7 +38,7 @@
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
-      "value": "-1001542619480"
+      "value": "-1001572648889"
     },
     "UPDATES_CHANNEL": {
       "description": "Your Update channel id or skip",
@@ -46,15 +46,15 @@
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "Add It For M3u8 Link thumbnail and For default thumbnail to be used in the videos. Incase, yt-dlp is unable to find a thumbnail. If Not add M3u8 link Will Not Work",
-      "value": ""
+      "value": "https://graph.org/file/9ed636169afaea5d0788b.jpg"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "6241072440"
+      "value": "5669981425"
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": "URL_uploder_x_bot"
+      "value": "URL_x_uploder_bot"
     }
   },
   "addons": [
