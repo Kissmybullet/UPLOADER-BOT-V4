@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Translation(object):
 
     START_TEXT = """
-🤗 Hello {}
+🤗 Hello sweetie {}
 
 I Am Telegram URL Uploader Bot.
 
@@ -30,17 +30,17 @@ I Am Telegram URL Uploader Bot.
  
 """
     ABOUT_TEXT = """
-**📛 My Name** : [Uploader Bot V4 🚀](http://t.me/anumitultrabots)
+**📛 My Name** : [Uploader Bot  🚀](https://t.me/guardians_Bot_Updates)
 
-**❤️ Version** : [2.3 🔥](http://t.me/anumitultrabots)
+**❤️ Version** : [2.3 🔥](https://t.me/guardians_Bot_Updates)
 
-**🤖 Source** : [Click](https://github.com/HelloUltra44/UPLOADER-BOT-V4)
+**🤖 Source** : [Click](https://graph.org/file/6a2506bdf72802406b9a2.mp4)
 
 **🧿 Language** : [Python 3.10.9](https://www.python.org/)
 
 **📢 Framework** : [Pyrogram 1.4.16](https://docs.pyrogram.org/)
 
-**👨‍💻 Developer** : [Amit](https://t.me/ajak4405)
+**👨‍💻 Developer** : [Zenitsu_AF](https://t.me/Zenitsu_AF)
 
 """
 
@@ -89,7 +89,7 @@ I Am Telegram URL Uploader Bot.
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>No preminum plans available in this bot </b>  /help for Details"
-    FORMAT_SELECTION = "<b>Select Your Format 👇\n\n🎥 Video = Upload As Streamble\n\n📂 File =Upload As File\n\n👮‍♂ Powered By :</b> @anumitultrabots"
+    FORMAT_SELECTION = "<b>Select Your Format 👇\n\n🎥 Video = Upload As Streamble\n\n📂 File =Upload As File\n\n👮‍♂ Powered By :</b> @Zenitsu_AF"
     SET_CUSTOM_USERNAME_PASSWORD = """"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DOWNLOAD_START = "📥 Downloading..."
