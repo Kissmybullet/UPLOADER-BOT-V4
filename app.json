@@ -1,5 +1,5 @@
 {
-  "name": "Uploader Bot V3 🚀",
+  "name": "Uploader Bot 🚀",
   "description": "Telegram's best Open Source Url Uploader Bot. Create your Fork now.",
   "logo": "https://te.legra.ph/file/82c925ccc38606d837831.jpg",
   "keywords": [
@@ -13,8 +13,8 @@
     "remote",
     "uploader"
   ],
-  "website": "https://github.com/LISA-KOREA",
-  "repository": "https://github.com/LISA-KOREA/UPLOADER-BOT-V3",
+  "update": "https://t.me/guardians_Bot_Updates",
+  "repository": "https://graph.org/file/6a2506bdf72802406b9a2.mp4",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -60,7 +60,7 @@
   "addons": [
   ],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://graph.org/file/6a2506bdf72802406b9a2.mp4"
   }, {
     "url": "heroku/python"
   }],
