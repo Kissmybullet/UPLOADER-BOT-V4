@@ -50,11 +50,11 @@
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "5669981425 5009250822"
+      "value": "5669981425"
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": "Rem_not_robot"
+      "value": "Rem_not_robot_bot"
     }
   },
   "addons": [
